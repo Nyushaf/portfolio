@@ -51,7 +51,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="image/TodoList.jpg" alt="screen">
+<img src="image/welcome.jpg" alt="screen">
 
 What the developer's portfolio looks like:
 * It contains information about the developer, 
@@ -59,7 +59,7 @@ What the developer's portfolio looks like:
 * Contains information about his previous projects,
 * Contains contact information.
 
-<img width="500px" src="image/ToDoListExample.jpg" alt="screen">
+<img width="500px" src="image/project.jpg" alt="screen"> <img width="500px" src="image/contacts.jpg" alt="screen">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -115,14 +115,15 @@ To get a local copy up and running follow these simple example steps.
 ## Usage
 
 Change parametrs CSS
-   <img src="image/ToDoListCode.jpg" alt="screen">
-   <br />
+   <img src="image/css.jpg" alt="screen">
+<br />
+<br />
 And change parametrs AOS animation in HTML file (more information about it on [site](https://active-vision.ru/blog/animatsiya-pri-prokrutke/) )
    ```sh
    data-aos="fade-up"
    ```
 and GSAP animation in JS file
-<img src="image/ToDoListCode.jpg" alt="screen">
+<img src="image/gsap.jpg" alt="screen">
    <br />
    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
