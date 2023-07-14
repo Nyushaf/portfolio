@@ -118,7 +118,7 @@ Change parametrs [CSS](https://github.com/Nyushaf/portfolio/blob/b818f3aa3dceba9
    <img src="image/css.jpg" alt="screen">
 <br />
 <br />
-And change parametrs AOS animation in HTML file (more information about it on [site](https://active-vision.ru/blog/animatsiya-pri-prokrutke/) )
+And change parametrs AOS animation in [HTML file](https://github.com/Nyushaf/portfolio/blob/336777a238aa06999bbc5c9de51c478b47c67256/index.html#L128) (more information about it on [site](https://active-vision.ru/blog/animatsiya-pri-prokrutke/) )
    ```sh
    data-aos="fade-up"
    ```
