@@ -114,7 +114,7 @@ To get a local copy up and running follow these simple example steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Change parametrs CSS
+Change parametrs [CSS](https://github.com/Nyushaf/portfolio/blob/b818f3aa3dceba91ca871e95862374e035009e32/style.css#L1-L502https://github.com/Nyushaf/portfolio/blob/b818f3aa3dceba91ca871e95862374e035009e32/style.css#L1-L502)
    <img src="image/css.jpg" alt="screen">
 <br />
 <br />
