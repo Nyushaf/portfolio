@@ -122,7 +122,7 @@ And change parametrs AOS animation in HTML file (more information about it on [s
    ```sh
    data-aos="fade-up"
    ```
-and GSAP animation in JS file
+and GSAP animation in JS [file](https://github.com/Nyushaf/portfolio/blob/494a832efc48ab0c9e1efd10d2a3b86ca5c03b36/script.js#L4-L23)
 <img src="image/gsap.jpg" alt="screen">
    <br />
    
