@@ -138,6 +138,8 @@ const projectBoxThree = document.querySelector(".wedding");
 const projectBoxFour = document.querySelector(".world-quiz");
 const projectBoxFive = document.querySelector(".furniture");
 const projectBoxSix = document.querySelector(".burger-rest");
+const projectBoxSeven = document.querySelector(".weather");
+const projectBoxEight = document.querySelector(".menu-planer");
 projectBoxOne.addEventListener("mouseover", showTextOne);
 projectBoxOne.addEventListener('mouseout', hideTextOne);
 function showTextOne() {
@@ -185,4 +187,20 @@ function showTextSix() {
 };
 function hideTextSix() {
     gsap.to('.six', {duration: .7, delay: .1, opacity: 0})
+}
+projectBoxSeven.addEventListener("mouseover", showTextSeven);
+projectBoxSeven.addEventListener('mouseout', hideTextSeven);
+function showTextSeven() {
+    gsap.to('.seven', {duration: .7, delay: .1, opacity: 1})
+};
+function hideTextSeven() {
+    gsap.to('.seven', {duration: .7, delay: .1, opacity: 0})
+}
+projectBoxEight.addEventListener("mouseover", showTextEight);
+projectBoxEight.addEventListener('mouseout', hideTextEight);
+function showTextEight() {
+    gsap.to('.eight', {duration: .7, delay: .1, opacity: 1})
+};
+function hideTextEight() {
+    gsap.to('.eight', {duration: .7, delay: .1, opacity: 0})
 }

@@ -212,6 +212,18 @@ h2 {
     background-size: cover;
     background-position: center;
 }
+.weather {
+    background-image: url("weather.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.menu-planer {
+    background-image: url("menu-planer.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
 .container-contact{
     display: flex;
     justify-content: center;
