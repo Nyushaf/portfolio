@@ -107,7 +107,8 @@ h1 {
     margin-top: 20px;
 }
 .par-about {
-    margin-left: 10px;
+    margin-left: 25px;
+    text-indent: 28px;
     font-size: 20px;
     font-family: 'Inter', sans-serif;
     color: #fff;
@@ -396,6 +397,7 @@ label {
         font-size: 30px;
     }
     .par-about {
+        text-indent: 15px;
         font-size: 17px;
     }
     .container-contact-box{
@@ -479,6 +481,7 @@ label {
         font-size: 35px;
     }
     .par-about {
+        text-indent: 15px;
         font-size: 20px;
     }
     .container-contact-box{
