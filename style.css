@@ -168,6 +168,10 @@ h2 {
     text-align: center;
     color: white;
 }
+.project-span {
+    font-size: 20px;
+    color: white;
+}
 .btnShowSite {
     border: none;
     background-color: #FFD369;
