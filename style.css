@@ -21,12 +21,13 @@ li {
 }
 .menu li {
     padding: 5px 14px;
+    color:#FFF9E5
 }
 .navbar {
     display: flex;
     align-items: center;
     justify-content: flex-end;
-    color: #fff;
+    color: #FFF9E5;
 }
 .container {
     position: absolute;
@@ -34,7 +35,7 @@ li {
     top: 18px;
 }
 .nav-links a {
-    color: #fff;
+    color: #FFF9E5;
 }
 .menu {
     display: flex;
@@ -72,7 +73,7 @@ input[type=checkbox]{
 h1 {
     margin: 0;
     font-size: 60px;
-    color: white;
+    color: #FFF9E5;
     font-weight: lighter;
     font-family: 'Inter', sans-serif;
 }
@@ -111,17 +112,17 @@ h1 {
     text-indent: 28px;
     font-size: 20px;
     font-family: 'Inter', sans-serif;
-    color: #fff;
+    color: #FFF9E5
 }
 h2 {
     font-size: 40px;
-    color: #fff;
+    color: #FFF9E5;
     font-weight: lighter;
     font-family: 'Inter', sans-serif;
     margin-bottom: 20px;
 }
 .text {
-    color: #fff;
+    color: #FFF9E5;
     font-size: 40px;
     position: absolute;
     text-align: center;
@@ -166,11 +167,11 @@ h2 {
     font-size: 30px;
     font-family: 'Inter', sans-serif;
     text-align: center;
-    color: white;
+    color: #FFF9E5;
 }
 .project-span {
     font-size: 20px;
-    color: white;
+    color: #FFF9E5;
 }
 .btnShowSite {
     border: none;
@@ -274,12 +275,12 @@ h2 {
 }
 label {
     font-size: 20px;
-    color: #fff;
+    color: #FFF9E5;
     font-weight: lighter;
     font-family: 'Inter', sans-serif;
 }
 .input-text {
-    background-color: #dedddb;
+    background-color: #FFF9E5;
     border: none;
     padding: 12px 20px;
     width: 400px;
@@ -339,7 +340,7 @@ label {
 }
 .year {
     align-self: center;
-    color: #fff;
+    color: #FFF9E5;
     font-family: 'Inter', sans-serif;
     margin-bottom: 5px;
 }
